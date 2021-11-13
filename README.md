@@ -1,4 +1,4 @@
 # aliases
 Handy aliases I have collected
 
-[Git](Git.md)
+![git logo](icons/git.png) [Git](Git.md)
