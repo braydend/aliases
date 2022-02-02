@@ -11,3 +11,9 @@ Auto-squash fixes (e.g. `gash master` will rebase the current branch on master a
 ```bash
 alias gash="git rebase --autosquash --interactive"
 ```
+
+### gst
+Show status of current branch
+```bash
+alias gash="git status"
+```
