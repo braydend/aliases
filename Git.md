@@ -23,3 +23,9 @@ Stage changes in patch mode. Allows for selecting changes to stage by hunk.
 ```bash
 alias gash="git add --patch"
 ```
+
+### gcb
+Create a new branch
+```bash
+alias gash="git checkout -b"
+```
