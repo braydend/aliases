@@ -41,3 +41,9 @@ Cherry-pick a commit
 ```bash
 alias gash="git cherry-pick"
 ```
+
+### gcmsg
+Create a commit with a message
+```bash
+alias gash="git commit --message"
+```
