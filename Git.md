@@ -29,3 +29,9 @@ Create a new branch
 ```bash
 alias gash="git checkout -b"
 ```
+
+### gco
+Checkout a branch
+```bash
+alias gash="git checkout"
+```
