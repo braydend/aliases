@@ -35,3 +35,9 @@ Checkout a branch
 ```bash
 alias gash="git checkout"
 ```
+
+### gcp
+Cherry-pick a commit
+```bash
+alias gash="git cherry-pick"
+```
