@@ -17,3 +17,9 @@ Show status of current branch
 ```bash
 alias gash="git status"
 ```
+
+### gapa
+Stage changes in patch mode. Allows for selecting changes to stage by hunk.
+```bash
+alias gash="git add --patch"
+```
