@@ -3,37 +3,37 @@
 ### gst
 Show status of current branch
 ```bash
-alias gash="git status"
+alias gst="git status"
 ```
 
 ### gcmsg
 Create a commit with a message
 ```bash
-alias gash="git commit --message"
+alias gcmsg="git commit --message"
 ```
 
 ### gcb
 Create a new branch
 ```bash
-alias gash="git checkout -b"
+alias gcb="git checkout -b"
 ```
 
 ### gco
 Checkout a branch
 ```bash
-alias gash="git checkout"
+alias gco="git checkout"
 ```
 
 ### gapa
 Stage changes in patch mode. Allows for selecting changes to stage by hunk.
 ```bash
-alias gash="git add --patch"
+alias gapa="git add --patch"
 ```
 
 ### gcp
 Cherry-pick a commit
 ```bash
-alias gash="git cherry-pick"
+alias gcp="git cherry-pick"
 ```
 
 ### gfix
